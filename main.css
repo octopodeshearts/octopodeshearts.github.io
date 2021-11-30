@@ -72,6 +72,8 @@ a:hover {
 }
 
 .contact{
+  font-family: 'EB Garamond', serif;
+  text-transform: uppercase;
   text-align: center;
   margin-bottom: 3em;
 }
@@ -80,7 +82,7 @@ a:hover {
 }
 
 .contact a{
-  text-decoration: underline;
+      text-decoration: none;
 }
 
 .fab, .fas{
